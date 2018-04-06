@@ -1,0 +1,14 @@
+Package: com.tommy.decreaseVolume
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tommy0415 <email (put in <>)>
+Depends: <bundleids>
+Filename: debs//<deb>
+Size: 2160
+MD5sum: 8da04c8caf981e84ef19ceb9eb6363b5
+SHA1: 2b1cf83b09bdc5d156d6f8684e136aca9ebd17db
+SHA256: db02215edef3f5f1831be08cbfbcd10eb16e48d1e87a4df64b93bfce89d087e5
+Section: Tweaks
+Description: A Fun Test Tweak That Disable Your Volume Control
+Author: Tommy0415 <tom_lhy@hotmail.com>
+Name: decreaseVolume1
